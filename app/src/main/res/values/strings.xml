@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlbumStore</string>
+    <string name="common_loading">"Chargement en cours…"</string>v
+    <string name="common_error">"Error lors de la récupération des albums!."</string>
+    <string name="album_id_label">"Identifiant: "</string>
+    <string name="album_title_label">"Titre: "</string>
+    <string name="todo">TODO</string>
+</resources>
